@@ -1,0 +1,45 @@
+body {
+  text-align: center;
+  background-color: #2d4059;
+  color: #b83b5e;
+}
+h1{
+  font-size: 4.5rem;
+  text-align: center;
+  padding: 5% 10% 3%;
+  font-family: 'Press Start 2P', cursive;
+}
+h2{
+  font-size: 6rem;
+}
+h6{
+  color: #709fb0;
+}
+p{
+  font-family: 'Press Start 2P', cursive;
+  font-size: 1.5rem;
+}
+footer{
+  font-family: 'Cousine', cursive;
+  color: #fff;
+  padding: 4% 7% 0;
+}
+img{
+  width: 10rem;
+}
+/* .player1 p{
+padding-right: 6%;
+}
+.player2 p{
+  padding-left: 6%;
+} */
+
+
+/* classes */
+.player1{
+  text-align: center;
+}
+
+.player2{
+  text-align: center;
+}
