@@ -1,8 +1,8 @@
 var player1 = Math.floor(Math.random() * 6) + 1;
 var player2 = Math.floor(Math.random() * 6) + 1;
 
-var image1Loc = "images/dice" + player1 + ".png";
-var image2Loc = "images/dice" + player2 + ".png";
+var image1Loc = "dice" + player1 + ".png";
+var image2Loc = "dice" + player2 + ".png";
 
 var image1 = document.querySelectorAll("img")[0];
 var image2 = document.querySelectorAll("img")[1];
